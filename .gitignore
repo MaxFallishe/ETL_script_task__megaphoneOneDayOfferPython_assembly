@@ -1,0 +1,12 @@
+# ignore virtual environment
+/venv
+
+# ignore .git and .cache folders
+.git
+.cache
+
+# ignore idea and __pycache__
+*__pycache__
+.idea
+# ignore .coverage
+.coverage
